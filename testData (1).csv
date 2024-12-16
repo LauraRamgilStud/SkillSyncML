@@ -1,0 +1,201 @@
+id,student_skills,student_fields_of_study,project_prefered_skills,project_prefered_fields_of_study,match_persentage
+1,"['React', 'AWS', 'SQL']",Mathematics,"['C#', 'React', 'Python', 'Docker']","['Mathematics', 'Mechanical Engineering', 'Physics']",47.5
+2,"['Docker', 'Java', 'AWS', 'CSS', 'TensorFlow']",Software Engineering,"['Python', 'Spring Boot', 'AWS', 'SQL']","['Software Engineering', 'Mathematics']",47.5
+3,"['AWS', 'Docker']",Software Engineering,"['SQL', 'C#', 'Docker', 'AWS', 'Spring Boot', 'Machine Learning']","['Electrical Engineering', 'Data Science']",23.33
+4,"['C#', 'TensorFlow', 'Docker']",Electrical Engineering,"['CSS', 'SQL', 'HTML', 'Machine Learning']",['Data Science'],0.0
+5,"['HTML', 'Java', 'Python']",Software Engineering,"['AWS', 'TensorFlow', 'Data Analysis', 'SQL', 'Python']",['Data Science'],14.0
+6,"['C#', 'Kubernetes', 'AWS', 'Docker', 'Data Analysis']",AI/ML,"['C#', 'CSS', 'React', 'SQL']","['Mechanical Engineering', 'AI/ML', 'Mathematics']",47.5
+7,"['C#', 'HTML', 'Kubernetes', 'Data Analysis']",Mathematics,"['HTML', 'Docker', 'Java']","['Software Engineering', 'AI/ML', 'Mechanical Engineering']",23.33
+8,"['Java', 'Python']",AI/ML,"['Python', 'Docker', 'Kubernetes']",['Electrical Engineering'],23.33
+9,"['React', 'CSS', 'AWS']",Physics,"['Kubernetes', 'Docker', 'React', 'Java', 'HTML']","['Mechanical Engineering', 'Electrical Engineering']",14.0
+10,"['Machine Learning', 'Kubernetes', 'Python', 'Spring Boot']",Electrical Engineering,"['HTML', 'TensorFlow', 'C#', 'CSS', 'React', 'Docker']","['AI/ML', 'Electrical Engineering']",30.0
+11,"['Machine Learning', 'SQL']",Physics,"['Spring Boot', 'Java', 'C#', 'Machine Learning']",['Data Science'],17.5
+12,"['TensorFlow', 'Spring Boot', 'HTML', 'Java']",AI/ML,"['React', 'Docker', 'Java', 'TensorFlow', 'SQL', 'AWS']",['Computer Science'],23.33
+13,"['Data Analysis', 'Kubernetes']",AI/ML,"['CSS', 'Java', 'Data Analysis']","['Mathematics', 'AI/ML', 'Data Science']",53.33
+14,"['Data Analysis', 'Docker', 'React', 'Python']",Data Science,"['Docker', 'Python', 'SQL', 'Java']","['Software Engineering', 'AI/ML']",35.0
+15,"['Data Analysis', 'SQL', 'CSS']",Electrical Engineering,"['React', 'Spring Boot', 'Python', 'Data Analysis', 'AWS']","['Mechanical Engineering', 'Computer Science']",14.0
+16,"['TensorFlow', 'Docker', 'Spring Boot', 'Kubernetes', 'Data Analysis']",Mathematics,"['AWS', 'CSS', 'React', 'Spring Boot', 'C#']",['Mathematics'],44.0
+17,"['HTML', 'Data Analysis', 'Python']",Data Science,"['Kubernetes', 'Data Analysis', 'TensorFlow', 'Machine Learning', 'HTML', 'Spring Boot']","['Physics', 'Data Science', 'Electrical Engineering']",53.33
+18,"['Python', 'CSS', 'TensorFlow', 'Machine Learning', 'Spring Boot']",Mathematics,"['Python', 'Machine Learning', 'CSS', 'Docker']","['AI/ML', 'Data Science']",52.5
+19,"['AWS', 'CSS']",Mathematics,"['TensorFlow', 'Spring Boot', 'Machine Learning', 'Data Analysis']","['Mathematics', 'Computer Science', 'Physics']",30.0
+20,"['TensorFlow', 'CSS', 'Kubernetes']",Computer Science,"['C#', 'Python', 'Kubernetes', 'CSS', 'HTML', 'Data Analysis']",['Software Engineering'],23.33
+21,"['HTML', 'Data Analysis', 'TensorFlow']",Mechanical Engineering,"['Machine Learning', 'TensorFlow', 'C#', 'Java', 'Python']","['Electrical Engineering', 'Physics']",14.0
+22,"['Docker', 'CSS', 'HTML', 'Data Analysis', 'C#']",Mathematics,"['Spring Boot', 'CSS', 'React', 'Machine Learning']",['Mechanical Engineering'],17.5
+23,"['AWS', 'HTML', 'Data Analysis', 'React']",Software Engineering,"['Machine Learning', 'HTML', 'React', 'SQL']",['AI/ML'],35.0
+24,"['CSS', 'Docker', 'AWS', 'Kubernetes']",Mechanical Engineering,"['HTML', 'SQL', 'Machine Learning', 'AWS', 'C#', 'Python']","['Electrical Engineering', 'Software Engineering', 'Mechanical Engineering']",41.67
+25,"['React', 'Python', 'C#', 'Spring Boot']",Mathematics,"['Kubernetes', 'Machine Learning', 'React', 'HTML']","['Data Science', 'Computer Science', 'AI/ML']",17.5
+26,"['CSS', 'C#', 'TensorFlow', 'Spring Boot']",Data Science,"['CSS', 'Python', 'Data Analysis', 'Java']","['Physics', 'Electrical Engineering', 'Mechanical Engineering']",17.5
+27,"['Machine Learning', 'React', 'Java']",Data Science,"['SQL', 'Data Analysis', 'TensorFlow', 'Spring Boot', 'Python']","['Data Science', 'AI/ML']",30.0
+28,"['Kubernetes', 'React']",Data Science,"['TensorFlow', 'Docker', 'C#']","['Software Engineering', 'Data Science']",30.0
+29,"['AWS', 'Machine Learning', 'SQL']",Electrical Engineering,"['HTML', 'CSS', 'React']","['Mathematics', 'Physics', 'Software Engineering']",0.0
+30,"['SQL', 'AWS']",Data Science,"['Spring Boot', 'Docker', 'Data Analysis', 'HTML', 'Machine Learning']",['Data Science'],30.0
+31,"['Data Analysis', 'CSS', 'React', 'C#']",Software Engineering,"['CSS', 'Data Analysis', 'C#', 'HTML']","['Physics', 'Electrical Engineering']",52.5
+32,"['HTML', 'Data Analysis', 'Docker', 'Python', 'Machine Learning']",Software Engineering,"['C#', 'Spring Boot', 'React']","['Physics', 'Electrical Engineering', 'AI/ML']",0.0
+33,"['Kubernetes', 'React', 'Python']",Mathematics,"['Java', 'Machine Learning', 'HTML']","['Software Engineering', 'AI/ML', 'Computer Science']",0.0
+34,"['Kubernetes', 'Data Analysis', 'CSS', 'TensorFlow', 'React']",AI/ML,"['AWS', 'Docker', 'Data Analysis']",['AI/ML'],53.33
+35,"['Data Analysis', 'AWS', 'Docker', 'Spring Boot', 'Python']",AI/ML,"['SQL', 'AWS', 'Machine Learning', 'Kubernetes', 'Docker', 'C#']",['AI/ML'],53.33
+36,"['Java', 'Docker']",Mathematics,"['Java', 'SQL', 'HTML', 'C#', 'AWS']",['Software Engineering'],14.0
+37,"['C#', 'Python']",Data Science,"['Data Analysis', 'AWS', 'Kubernetes', 'CSS', 'Python']",['Software Engineering'],14.0
+38,"['HTML', 'Data Analysis', 'C#']",AI/ML,"['Kubernetes', 'HTML', 'Spring Boot']",['Computer Science'],23.33
+39,"['Data Analysis', 'Machine Learning', 'React', 'SQL']",AI/ML,"['Machine Learning', 'CSS', 'Docker', 'AWS', 'Data Analysis']",['Software Engineering'],28.0
+40,"['Machine Learning', 'React', 'CSS']",Computer Science,"['Spring Boot', 'Data Analysis', 'Machine Learning', 'HTML', 'Python']","['Mechanical Engineering', 'AI/ML', 'Computer Science']",44.0
+41,"['Docker', 'Spring Boot', 'CSS', 'Python']",Physics,"['HTML', 'C#', 'TensorFlow']",['AI/ML'],0.0
+42,"['React', 'CSS', 'Machine Learning']",Electrical Engineering,"['Data Analysis', 'React', 'SQL']",['Mathematics'],23.33
+43,"['AWS', 'Docker', 'Python', 'CSS', 'Spring Boot']",Data Science,"['SQL', 'Machine Learning', 'Python']","['Mathematics', 'Data Science', 'Mechanical Engineering']",53.33
+44,"['Machine Learning', 'Java']",Mathematics,"['CSS', 'Python', 'Machine Learning', 'TensorFlow', 'Kubernetes', 'Java']",['Computer Science'],23.33
+45,"['Docker', 'Java', 'TensorFlow']",Electrical Engineering,"['Data Analysis', 'Kubernetes', 'Spring Boot', 'TensorFlow']",['Mechanical Engineering'],17.5
+46,"['HTML', 'CSS']",Software Engineering,"['Kubernetes', 'Spring Boot', 'CSS']","['Computer Science', 'Mechanical Engineering']",23.33
+47,"['HTML', 'AWS']",Mathematics,"['Java', 'C#', 'Docker', 'SQL']","['AI/ML', 'Mathematics', 'Data Science']",30.0
+48,"['AWS', 'C#', 'CSS', 'TensorFlow']",AI/ML,"['Data Analysis', 'React', 'Spring Boot', 'AWS']","['Software Engineering', 'Data Science']",17.5
+49,"['Spring Boot', 'Docker']",Software Engineering,"['TensorFlow', 'Java', 'HTML', 'AWS']","['Electrical Engineering', 'Mechanical Engineering']",0.0
+50,"['TensorFlow', 'SQL']",Data Science,"['Machine Learning', 'Java', 'CSS', 'Docker', 'Data Analysis', 'HTML']","['Electrical Engineering', 'Data Science', 'Software Engineering']",30.0
+51,"['HTML', 'AWS', 'SQL', 'CSS']",Mechanical Engineering,"['Data Analysis', 'React', 'Python']",['Software Engineering'],0.0
+52,"['CSS', 'SQL', 'Spring Boot']",Software Engineering,"['Data Analysis', 'SQL', 'Spring Boot', 'Machine Learning', 'Docker']","['Mathematics', 'Electrical Engineering', 'Data Science']",28.0
+53,"['TensorFlow', 'Kubernetes']",Data Science,"['Java', 'SQL', 'HTML', 'Python', 'TensorFlow']","['Data Science', 'AI/ML', 'Physics']",44.0
+54,"['Python', 'Spring Boot', 'React', 'Java']",Mathematics,"['Data Analysis', 'Machine Learning', 'Kubernetes']",['Mathematics'],30.0
+55,"['Docker', 'React']",Electrical Engineering,"['Spring Boot', 'Data Analysis', 'Machine Learning']","['Computer Science', 'AI/ML']",0.0
+56,"['Machine Learning', 'Python', 'Data Analysis']",Physics,"['Machine Learning', 'CSS', 'HTML', 'AWS']","['Software Engineering', 'Mechanical Engineering', 'Data Science']",17.5
+57,"['Machine Learning', 'Kubernetes']",Mathematics,"['Python', 'Java', 'Data Analysis']","['Computer Science', 'Physics']",0.0
+58,"['CSS', 'Docker']",Software Engineering,"['CSS', 'AWS', 'Data Analysis', 'React']",['Software Engineering'],47.5
+59,"['SQL', 'Spring Boot', 'TensorFlow', 'Docker', 'Machine Learning']",Data Science,"['Java', 'Python', 'HTML', 'Spring Boot']",['Mathematics'],17.5
+60,"['HTML', 'Data Analysis', 'Docker', 'CSS']",Data Science,"['React', 'Docker', 'Data Analysis', 'Python', 'C#']",['Mechanical Engineering'],28.0
+61,"['Spring Boot', 'React']",Mechanical Engineering,"['C#', 'Python', 'Data Analysis', 'Java']","['Physics', 'Mechanical Engineering']",30.0
+62,"['C#', 'HTML', 'Kubernetes', 'Python']",Data Science,"['HTML', 'AWS', 'Data Analysis', 'Spring Boot', 'Java', 'C#']","['AI/ML', 'Computer Science']",23.33
+63,"['Spring Boot', 'AWS', 'TensorFlow']",Computer Science,"['CSS', 'SQL', 'Python', 'C#', 'Docker']","['Mechanical Engineering', 'Physics', 'Electrical Engineering']",0.0
+64,"['Docker', 'TensorFlow', 'HTML', 'Machine Learning', 'Data Analysis']",Data Science,"['C#', 'CSS', 'React']",['AI/ML'],0.0
+65,"['AWS', 'Spring Boot', 'TensorFlow', 'Kubernetes']",Physics,"['Machine Learning', 'TensorFlow', 'HTML', 'C#', 'SQL', 'Java']","['Electrical Engineering', 'Computer Science', 'Mathematics']",11.67
+66,"['Data Analysis', 'CSS', 'AWS']",Mathematics,"['C#', 'HTML', 'AWS', 'Data Analysis', 'CSS', 'Kubernetes']","['AI/ML', 'Electrical Engineering']",35.0
+67,"['CSS', 'TensorFlow', 'Python', 'AWS']",AI/ML,"['Docker', 'SQL', 'Python', 'TensorFlow', 'CSS']",['Mechanical Engineering'],42.0
+68,"['Data Analysis', 'React', 'SQL', 'Python', 'Machine Learning']",Physics,"['Data Analysis', 'React', 'Kubernetes']","['Computer Science', 'Mechanical Engineering', 'AI/ML']",46.67
+69,"['Java', 'Docker', 'Data Analysis', 'AWS', 'HTML']",Mechanical Engineering,"['Java', 'TensorFlow', 'Kubernetes', 'Spring Boot', 'CSS', 'AWS']","['Software Engineering', 'Electrical Engineering', 'Computer Science']",23.33
+70,"['Java', 'HTML', 'React', 'C#']",Software Engineering,"['CSS', 'HTML', 'React', 'Docker']","['Electrical Engineering', 'Computer Science', 'Software Engineering']",65.0
+71,"['HTML', 'Data Analysis', 'Machine Learning']",Data Science,"['Python', 'CSS', 'Kubernetes']","['AI/ML', 'Computer Science', 'Mechanical Engineering']",0.0
+72,"['Machine Learning', 'React', 'HTML']",Electrical Engineering,"['Kubernetes', 'TensorFlow', 'Python', 'AWS', 'Docker', 'CSS']",['Software Engineering'],0.0
+73,"['Spring Boot', 'C#']",Computer Science,"['TensorFlow', 'Kubernetes', 'SQL', 'Python', 'C#']","['Mechanical Engineering', 'Physics', 'Computer Science']",44.0
+74,"['CSS', 'AWS', 'React', 'SQL', 'Java']",Data Science,"['Docker', 'HTML', 'TensorFlow']","['Mechanical Engineering', 'Electrical Engineering']",0.0
+75,"['TensorFlow', 'Machine Learning', 'SQL']",Software Engineering,"['HTML', 'React', 'CSS', 'AWS', 'TensorFlow']","['AI/ML', 'Computer Science', 'Mechanical Engineering']",14.0
+76,"['Java', 'React']",Data Science,"['Spring Boot', 'C#', 'Java', 'CSS']",['Computer Science'],17.5
+77,"['TensorFlow', 'Machine Learning', 'Docker', 'HTML']",AI/ML,"['AWS', 'Kubernetes', 'Python']","['Physics', 'Computer Science']",0.0
+78,"['Docker', 'AWS']",Computer Science,"['React', 'Java', 'C#', 'Machine Learning']",['Data Science'],0.0
+79,"['Machine Learning', 'Java']",AI/ML,"['Spring Boot', 'Data Analysis', 'React', 'Docker', 'Java']","['Electrical Engineering', 'Data Science']",14.0
+80,"['AWS', 'React', 'HTML']",AI/ML,"['Docker', 'Kubernetes', 'React', 'Python', 'HTML', 'AWS']","['Electrical Engineering', 'Computer Science']",35.0
+81,"['Machine Learning', 'Data Analysis']",Computer Science,"['Machine Learning', 'Data Analysis', 'Docker']","['Electrical Engineering', 'AI/ML', 'Mechanical Engineering']",46.67
+82,"['React', 'TensorFlow', 'CSS']",Data Science,"['React', 'Kubernetes', 'Java', 'Machine Learning']","['Computer Science', 'Physics', 'Mathematics']",17.5
+83,"['Data Analysis', 'Java', 'Kubernetes', 'Python', 'HTML']",Computer Science,"['C#', 'CSS', 'Data Analysis', 'TensorFlow']",['AI/ML'],17.5
+84,"['HTML', 'TensorFlow', 'React', 'Docker', 'SQL']",Electrical Engineering,"['Machine Learning', 'TensorFlow', 'React']","['Computer Science', 'AI/ML']",46.67
+85,"['Spring Boot', 'Python']",Computer Science,"['Java', 'HTML', 'C#', 'Data Analysis']","['Mathematics', 'Electrical Engineering', 'Computer Science']",30.0
+86,"['Kubernetes', 'Docker', 'C#', 'TensorFlow', 'AWS']",Mechanical Engineering,"['Machine Learning', 'SQL', 'C#', 'Docker']",['Physics'],35.0
+87,"['TensorFlow', 'Docker', 'AWS']",Data Science,"['React', 'Kubernetes', 'AWS', 'Spring Boot']",['Computer Science'],17.5
+88,"['Spring Boot', 'HTML', 'C#', 'Java']",Data Science,"['Docker', 'AWS', 'Java']","['AI/ML', 'Software Engineering']",23.33
+89,"['CSS', 'TensorFlow', 'Kubernetes', 'AWS']",Computer Science,"['SQL', 'TensorFlow', 'Data Analysis', 'Kubernetes', 'CSS']",['Mathematics'],42.0
+90,"['React', 'TensorFlow', 'C#', 'HTML']",Mechanical Engineering,"['Machine Learning', 'Python', 'SQL']","['Mathematics', 'Computer Science']",0.0
+91,"['Java', 'Machine Learning']",Data Science,"['Spring Boot', 'Machine Learning', 'C#']","['Electrical Engineering', 'Mathematics', 'AI/ML']",23.33
+92,"['Docker', 'Kubernetes', 'HTML', 'Java', 'Data Analysis']",Physics,"['Python', 'Kubernetes', 'AWS', 'SQL', 'CSS']","['Data Science', 'Mechanical Engineering', 'Software Engineering']",14.0
+93,"['React', 'Python', 'AWS', 'Data Analysis']",Physics,"['SQL', 'Java', 'Machine Learning', 'C#', 'React']","['AI/ML', 'Mechanical Engineering', 'Data Science']",14.0
+94,"['Data Analysis', 'Spring Boot', 'C#', 'SQL', 'AWS']",Computer Science,"['Spring Boot', 'AWS', 'Docker']","['Software Engineering', 'Data Science']",46.67
+95,"['HTML', 'Spring Boot', 'Machine Learning', 'CSS']",Computer Science,"['Machine Learning', 'Spring Boot', 'Docker', 'AWS', 'Kubernetes']","['Data Science', 'Electrical Engineering', 'Mathematics']",28.0
+96,"['C#', 'Docker']",Mechanical Engineering,"['Java', 'TensorFlow', 'Docker']","['Physics', 'Mathematics', 'Software Engineering']",23.33
+97,"['HTML', 'CSS', 'Data Analysis', 'Spring Boot', 'TensorFlow']",Mechanical Engineering,"['C#', 'Spring Boot', 'AWS', 'CSS']",['Data Science'],35.0
+98,"['AWS', 'SQL', 'Python', 'Spring Boot', 'CSS']",AI/ML,"['HTML', 'AWS', 'Spring Boot', 'SQL', 'C#']",['Electrical Engineering'],42.0
+99,"['Kubernetes', 'HTML']",Mathematics,"['Spring Boot', 'Java', 'TensorFlow', 'Docker', 'HTML', 'C#']",['AI/ML'],11.67
+100,"['Machine Learning', 'Data Analysis', 'Docker']",Mathematics,"['Docker', 'Machine Learning', 'CSS', 'SQL', 'HTML']","['Software Engineering', 'Mathematics', 'Computer Science']",58.0
+101,"['React', 'AWS', 'Kubernetes']",Data Science,"['Machine Learning', 'HTML', 'C#', 'Java']","['Software Engineering', 'AI/ML']",0.0
+102,"['AWS', 'Docker', 'Kubernetes', 'React']",Mechanical Engineering,"['HTML', 'Machine Learning', 'Java', 'SQL', 'CSS', 'Kubernetes']","['Physics', 'Data Science', 'Mechanical Engineering']",41.67
+103,"['C#', 'Java', 'Spring Boot', 'TensorFlow', 'Data Analysis']",Software Engineering,"['AWS', 'Python', 'Data Analysis']","['Computer Science', 'Software Engineering']",53.33
+104,"['Data Analysis', 'Python', 'Spring Boot', 'Machine Learning', 'Kubernetes']",Electrical Engineering,"['Data Analysis', 'Docker', 'Machine Learning', 'Python']","['Mechanical Engineering', 'Mathematics']",52.5
+105,"['React', 'Machine Learning', 'Python']",Data Science,"['TensorFlow', 'HTML', 'C#', 'Java', 'CSS', 'React']",['Mathematics'],11.67
+106,"['CSS', 'AWS', 'Docker', 'Data Analysis']",Computer Science,"['Python', 'SQL', 'C#']",['Software Engineering'],0.0
+107,"['Data Analysis', 'React']",Mechanical Engineering,"['Docker', 'Machine Learning', 'AWS', 'Kubernetes', 'SQL', 'HTML']",['Mathematics'],0.0
+108,"['Python', 'TensorFlow']",Computer Science,"['Spring Boot', 'React', 'HTML', 'Python']","['Electrical Engineering', 'Mechanical Engineering']",17.5
+109,"['Spring Boot', 'Kubernetes', 'Docker', 'HTML']",Computer Science,"['C#', 'CSS', 'Data Analysis', 'Java', 'Machine Learning', 'AWS']",['Mechanical Engineering'],0.0
+110,"['Spring Boot', 'Machine Learning', 'Kubernetes', 'Python', 'React']",Electrical Engineering,"['Java', 'HTML', 'Docker', 'AWS', 'Data Analysis']","['Mathematics', 'Computer Science', 'AI/ML']",0.0
+111,"['SQL', 'Data Analysis']",Electrical Engineering,"['SQL', 'CSS', 'Python', 'Machine Learning']","['Computer Science', 'Physics']",17.5
+112,"['Java', 'Machine Learning', 'SQL', 'C#']",Computer Science,"['CSS', 'AWS', 'Java', 'C#', 'HTML', 'Python']","['Physics', 'Data Science']",23.33
+113,"['Java', 'C#', 'SQL']",Physics,"['CSS', 'Data Analysis', 'AWS', 'HTML', 'Kubernetes', 'TensorFlow']",['Mechanical Engineering'],0.0
+114,"['TensorFlow', 'Machine Learning', 'Docker']",Physics,"['Spring Boot', 'SQL', 'CSS', 'React', 'HTML', 'Machine Learning']","['Data Science', 'Computer Science', 'Software Engineering']",11.67
+115,"['Kubernetes', 'Spring Boot', 'C#', 'Docker']",Software Engineering,"['React', 'AWS', 'TensorFlow', 'HTML', 'Machine Learning', 'CSS']","['Mechanical Engineering', 'Physics', 'Electrical Engineering']",0.0
+116,"['CSS', 'Data Analysis', 'Docker', 'Java', 'Machine Learning']",Computer Science,"['Kubernetes', 'AWS', 'TensorFlow', 'Java', 'CSS', 'Python']",['Data Science'],23.33
+117,"['React', 'Machine Learning', 'SQL']",Physics,"['Docker', 'HTML', 'CSS', 'Kubernetes']","['Software Engineering', 'Mathematics']",0.0
+118,"['Spring Boot', 'Data Analysis', 'Java', 'Machine Learning', 'C#']",Mathematics,"['Python', 'Machine Learning', 'C#', 'HTML']","['Physics', 'Mechanical Engineering', 'Software Engineering']",35.0
+119,"['Machine Learning', 'Docker', 'Spring Boot', 'Data Analysis']",Software Engineering,"['Python', 'TensorFlow', 'CSS', 'Docker']","['Physics', 'Data Science']",17.5
+120,"['React', 'Data Analysis']",Computer Science,"['TensorFlow', 'C#', 'Java', 'Docker']","['AI/ML', 'Mechanical Engineering']",0.0
+121,"['TensorFlow', 'Machine Learning']",Physics,"['C#', 'AWS', 'Java', 'Data Analysis', 'Python']","['Data Science', 'Mechanical Engineering', 'Mathematics']",0.0
+122,"['Machine Learning', 'Kubernetes', 'Docker', 'TensorFlow', 'Data Analysis']",Software Engineering,"['Java', 'Spring Boot', 'Python', 'Data Analysis', 'SQL', 'TensorFlow']","['Data Science', 'Mathematics', 'Software Engineering']",53.33
+123,"['Docker', 'Java', 'Machine Learning', 'Python', 'TensorFlow']",Computer Science,"['Spring Boot', 'HTML', 'React', 'Kubernetes', 'Python', 'Machine Learning']","['Mechanical Engineering', 'Electrical Engineering']",23.33
+124,"['Kubernetes', 'TensorFlow', 'C#']",Mechanical Engineering,"['Machine Learning', 'React', 'C#', 'HTML', 'SQL']","['Physics', 'AI/ML']",14.0
+125,"['AWS', 'React', 'Machine Learning', 'Spring Boot']",AI/ML,"['HTML', 'CSS', 'Java', 'Machine Learning']","['Physics', 'Software Engineering']",17.5
+126,"['Data Analysis', 'C#', 'Machine Learning', 'HTML', 'CSS']",Mathematics,"['Docker', 'C#', 'Machine Learning', 'Kubernetes']","['Computer Science', 'Mechanical Engineering', 'AI/ML']",35.0
+127,"['TensorFlow', 'Java', 'HTML']",Software Engineering,"['Python', 'C#', 'SQL']","['AI/ML', 'Electrical Engineering']",0.0
+128,"['Spring Boot', 'SQL', 'CSS', 'Data Analysis', 'Machine Learning']",Physics,"['SQL', 'Java', 'React', 'Machine Learning', 'CSS', 'Kubernetes']","['Software Engineering', 'Electrical Engineering']",35.0
+129,"['Data Analysis', 'Spring Boot', 'Java', 'Python', 'AWS']",Physics,"['Java', 'React', 'Docker', 'HTML', 'Machine Learning', 'SQL']",['AI/ML'],11.67
+130,"['SQL', 'Python', 'Docker', 'Machine Learning', 'TensorFlow']",Electrical Engineering,"['Spring Boot', 'Java', 'TensorFlow', 'C#', 'CSS', 'Kubernetes']","['Electrical Engineering', 'Computer Science']",41.67
+131,"['HTML', 'Docker', 'React', 'Python']",Computer Science,"['React', 'Kubernetes', 'Python', 'SQL', 'Spring Boot', 'Data Analysis']",['AI/ML'],23.33
+132,"['Java', 'CSS', 'Machine Learning']",AI/ML,"['AWS', 'Machine Learning', 'React', 'Docker', 'CSS']","['Software Engineering', 'Mathematics', 'Physics']",28.0
+133,"['HTML', 'AWS', 'React']",Mathematics,"['Data Analysis', 'Python', 'Spring Boot', 'SQL', 'C#']",['Mathematics'],30.0
+134,"['HTML', 'SQL', 'TensorFlow', 'React']",Computer Science,"['Kubernetes', 'HTML', 'AWS', 'TensorFlow']","['Mathematics', 'Data Science', 'Physics']",35.0
+135,"['HTML', 'Docker', 'C#', 'Python', 'React']",Software Engineering,"['SQL', 'AWS', 'CSS', 'Machine Learning']",['Electrical Engineering'],0.0
+136,"['CSS', 'C#', 'Docker', 'Python', 'TensorFlow']",Electrical Engineering,"['Python', 'Machine Learning', 'C#', 'TensorFlow', 'Docker']","['AI/ML', 'Mathematics', 'Software Engineering']",56.0
+137,"['Data Analysis', 'CSS']",Computer Science,"['TensorFlow', 'Machine Learning', 'Data Analysis']",['Electrical Engineering'],23.33
+138,"['React', 'Machine Learning', 'Data Analysis', 'SQL']",Physics,"['Python', 'React', 'CSS', 'HTML', 'SQL', 'C#']",['Mechanical Engineering'],23.33
+139,"['TensorFlow', 'C#']",Physics,"['Kubernetes', 'React', 'Python', 'CSS', 'Data Analysis', 'HTML']","['Mechanical Engineering', 'Computer Science', 'AI/ML']",0.0
+140,"['Spring Boot', 'AWS', 'TensorFlow']",Electrical Engineering,"['CSS', 'React', 'HTML']","['Data Science', 'Computer Science', 'Mathematics']",0.0
+141,"['Machine Learning', 'CSS', 'HTML']",Electrical Engineering,"['Data Analysis', 'HTML', 'TensorFlow', 'Docker', 'Spring Boot']","['Data Science', 'Mechanical Engineering']",14.0
+142,"['Data Analysis', 'TensorFlow']",Software Engineering,"['Java', 'C#', 'Kubernetes']",['AI/ML'],0.0
+143,"['TensorFlow', 'Python', 'Machine Learning', 'SQL', 'C#']",Computer Science,"['Data Analysis', 'Java', 'Docker', 'CSS', 'HTML']","['Electrical Engineering', 'Software Engineering', 'AI/ML']",0.0
+144,"['Data Analysis', 'CSS', 'Java']",Data Science,"['Python', 'Java', 'Docker', 'SQL', 'React']",['Software Engineering'],14.0
+145,"['Spring Boot', 'CSS', 'TensorFlow', 'Docker']",Electrical Engineering,"['Python', 'SQL', 'CSS']",['Computer Science'],23.33
+146,"['Data Analysis', 'C#']",Computer Science,"['Python', 'SQL', 'Kubernetes', 'React', 'AWS', 'Java']","['Physics', 'Data Science', 'Software Engineering']",0.0
+147,"['SQL', 'Data Analysis', 'Java']",Physics,"['Data Analysis', 'React', 'Docker']","['Physics', 'AI/ML', 'Computer Science']",53.33
+148,"['React', 'Data Analysis', 'Python', 'Kubernetes', 'HTML']",Data Science,"['Kubernetes', 'Data Analysis', 'TensorFlow', 'React']","['Physics', 'Computer Science', 'Mechanical Engineering']",52.5
+149,"['CSS', 'Docker']",Mechanical Engineering,"['Java', 'Python', 'Docker']",['Mechanical Engineering'],53.33
+150,"['AWS', 'Spring Boot', 'Java', 'C#']",Mechanical Engineering,"['Spring Boot', 'AWS', 'HTML']","['Computer Science', 'Software Engineering', 'Data Science']",46.67
+151,"['CSS', 'Docker', 'Spring Boot']",Physics,"['AWS', 'Python', 'React']","['Computer Science', 'Electrical Engineering']",0.0
+152,"['Docker', 'Data Analysis']",Software Engineering,"['C#', 'Docker', 'TensorFlow']",['Mathematics'],23.33
+153,"['TensorFlow', 'CSS', 'Python', 'React']",Electrical Engineering,"['CSS', 'HTML', 'Kubernetes', 'Machine Learning', 'Python']","['Data Science', 'AI/ML', 'Mathematics']",28.0
+154,"['Python', 'AWS']",Mathematics,"['Machine Learning', 'Python', 'TensorFlow', 'C#', 'Data Analysis', 'Java']","['AI/ML', 'Mechanical Engineering', 'Software Engineering']",11.67
+155,"['React', 'SQL', 'Python']",Computer Science,"['TensorFlow', 'React', 'AWS', 'Java']",['AI/ML'],17.5
+156,"['React', 'CSS', 'Data Analysis', 'HTML', 'C#']",Computer Science,"['AWS', 'Spring Boot', 'SQL', 'Machine Learning']",['Physics'],0.0
+157,"['C#', 'Docker', 'React', 'HTML']",Data Science,"['Data Analysis', 'C#', 'AWS', 'Java']","['Electrical Engineering', 'Physics', 'Software Engineering']",17.5
+158,"['SQL', 'Spring Boot', 'CSS', 'Java']",AI/ML,"['AWS', 'Java', 'SQL']",['Mathematics'],46.67
+159,"['React', 'C#', 'Data Analysis', 'CSS']",Physics,"['Data Analysis', 'SQL', 'React', 'TensorFlow', 'HTML']",['Software Engineering'],28.0
+160,"['HTML', 'Java', 'TensorFlow', 'SQL', 'CSS']",Software Engineering,"['TensorFlow', 'Python', 'HTML']","['Physics', 'Data Science']",46.67
+161,"['Kubernetes', 'Java']",Mechanical Engineering,"['Machine Learning', 'React', 'Docker']","['AI/ML', 'Software Engineering']",0.0
+162,"['Machine Learning', 'SQL', 'CSS', 'React', 'Docker']",Computer Science,"['Machine Learning', 'Python', 'Data Analysis']","['Electrical Engineering', 'AI/ML']",23.33
+163,"['C#', 'Data Analysis', 'SQL', 'Kubernetes', 'React']",Mechanical Engineering,"['CSS', 'Kubernetes', 'Data Analysis', 'Python', 'SQL', 'Spring Boot']","['Electrical Engineering', 'Mathematics', 'AI/ML']",35.0
+164,"['Kubernetes', 'Data Analysis', 'Java', 'Docker']",Physics,"['Docker', 'Data Analysis', 'AWS']","['Physics', 'Data Science', 'Computer Science']",76.67
+165,"['CSS', 'Spring Boot', 'TensorFlow']",Computer Science,"['AWS', 'Data Analysis', 'Machine Learning', 'Python', 'SQL']","['Mathematics', 'Software Engineering', 'Electrical Engineering']",0.0
+166,"['HTML', 'Java', 'Data Analysis', 'TensorFlow']",AI/ML,"['Java', 'Kubernetes', 'SQL', 'C#', 'HTML']",['Software Engineering'],28.0
+167,"['Docker', 'React', 'SQL', 'Kubernetes', 'Data Analysis']",Mechanical Engineering,"['Machine Learning', 'Docker', 'React', 'CSS']","['Mathematics', 'Software Engineering']",35.0
+168,"['Python', 'Java']",Physics,"['CSS', 'React', 'TensorFlow', 'AWS', 'Docker', 'Data Analysis']",['Computer Science'],0.0
+169,"['Spring Boot', 'SQL']",Physics,"['React', 'Machine Learning', 'Kubernetes', 'HTML']","['AI/ML', 'Software Engineering', 'Physics']",30.0
+170,"['AWS', 'Machine Learning', 'React', 'Kubernetes', 'Python']",Computer Science,"['CSS', 'Kubernetes', 'Java', 'Python', 'C#']",['Computer Science'],58.0
+171,"['C#', 'Spring Boot']",Software Engineering,"['TensorFlow', 'Docker', 'HTML', 'Python', 'Java']",['Software Engineering'],30.0
+172,"['Machine Learning', 'Kubernetes']",Electrical Engineering,"['SQL', 'C#', 'Docker', 'Machine Learning', 'Data Analysis', 'Java']","['Electrical Engineering', 'Data Science', 'Software Engineering']",41.67
+173,"['Docker', 'Machine Learning', 'TensorFlow', 'AWS', 'Data Analysis']",Data Science,"['SQL', 'TensorFlow', 'Python']","['Physics', 'Computer Science', 'Data Science']",53.33
+174,"['Spring Boot', 'Machine Learning', 'Docker']",AI/ML,"['SQL', 'HTML', 'Docker', 'CSS']","['Mathematics', 'Data Science']",17.5
+175,"['Python', 'Data Analysis', 'Kubernetes']",Physics,"['Docker', 'TensorFlow', 'CSS', 'Java', 'HTML', 'Kubernetes']","['Mathematics', 'Electrical Engineering']",11.67
+176,"['SQL', 'React', 'HTML', 'Machine Learning', 'Java']",Mathematics,"['Python', 'SQL', 'C#', 'Data Analysis', 'Machine Learning']",['Physics'],28.0
+177,"['Docker', 'Data Analysis']",Mechanical Engineering,"['Docker', 'CSS', 'SQL', 'C#', 'Spring Boot']",['Mathematics'],14.0
+178,"['HTML', 'AWS', 'Docker']",AI/ML,"['React', 'CSS', 'HTML']","['Mechanical Engineering', 'Software Engineering', 'Data Science']",23.33
+179,"['AWS', 'SQL']",Electrical Engineering,"['TensorFlow', 'Machine Learning', 'C#', 'CSS']",['Software Engineering'],0.0
+180,"['TensorFlow', 'HTML', 'SQL']",Software Engineering,"['Python', 'Java', 'C#', 'Data Analysis', 'TensorFlow', 'Docker']",['Computer Science'],11.67
+181,"['Docker', 'SQL', 'Kubernetes', 'TensorFlow']",Computer Science,"['React', 'Machine Learning', 'SQL']","['AI/ML', 'Computer Science', 'Mathematics']",53.33
+182,"['TensorFlow', 'Python', 'Kubernetes', 'Data Analysis']",Software Engineering,"['Machine Learning', 'Python', 'Data Analysis', 'React', 'C#', 'Java']",['Computer Science'],23.33
+183,"['HTML', 'Spring Boot']",Data Science,"['Kubernetes', 'SQL', 'AWS', 'HTML']","['Mechanical Engineering', 'Computer Science', 'Software Engineering']",17.5
+184,"['AWS', 'Spring Boot', 'HTML', 'Python', 'TensorFlow']",Electrical Engineering,"['C#', 'Kubernetes', 'SQL', 'Java']",['Computer Science'],0.0
+185,"['Java', 'TensorFlow', 'Docker']",Mechanical Engineering,"['Spring Boot', 'Kubernetes', 'Data Analysis', 'React', 'Java', 'Docker']","['Mechanical Engineering', 'Data Science', 'Software Engineering']",53.33
+186,"['Kubernetes', 'Python', 'C#', 'Docker', 'HTML']",Computer Science,"['React', 'TensorFlow', 'HTML', 'Docker', 'Machine Learning']","['Software Engineering', 'Mechanical Engineering', 'Electrical Engineering']",28.0
+187,"['Python', 'CSS', 'TensorFlow', 'HTML']",Electrical Engineering,"['Spring Boot', 'TensorFlow', 'Machine Learning']",['Computer Science'],23.33
+188,"['TensorFlow', 'Docker']",Data Science,"['React', 'Docker', 'Data Analysis', 'Machine Learning', 'TensorFlow']","['Computer Science', 'Data Science', 'Physics']",58.0
+189,"['Machine Learning', 'Java']",Computer Science,"['Kubernetes', 'Docker', 'SQL', 'Data Analysis', 'Spring Boot']",['Mathematics'],0.0
+190,"['AWS', 'Python', 'Machine Learning', 'Docker', 'CSS']",Data Science,"['AWS', 'HTML', 'Java']","['Physics', 'Data Science']",53.33
+191,"['Spring Boot', 'C#', 'Python', 'AWS']",Data Science,"['SQL', 'Machine Learning', 'CSS', 'HTML', 'AWS']",['Data Science'],44.0
+192,"['Java', 'Python', 'CSS', 'React']",Mechanical Engineering,"['Data Analysis', 'Spring Boot', 'CSS', 'C#', 'TensorFlow', 'HTML']",['Mathematics'],11.67
+193,"['Spring Boot', 'Docker', 'Machine Learning']",Software Engineering,"['Docker', 'HTML', 'CSS']","['Mechanical Engineering', 'AI/ML', 'Data Science']",23.33
+194,"['Spring Boot', 'SQL', 'AWS', 'Machine Learning']",AI/ML,"['Machine Learning', 'React', 'Data Analysis']","['Software Engineering', 'AI/ML', 'Mathematics']",53.33
+195,"['CSS', 'Data Analysis', 'Docker', 'Machine Learning', 'Java']",Computer Science,"['TensorFlow', 'Docker', 'Python', 'SQL', 'Machine Learning']","['Mechanical Engineering', 'Mathematics']",28.0
+196,"['CSS', 'Machine Learning']",Data Science,"['Docker', 'React', 'Spring Boot', 'TensorFlow', 'CSS', 'C#']",['Data Science'],41.67
+197,"['TensorFlow', 'Docker', 'Spring Boot']",Mathematics,"['Docker', 'Machine Learning', 'Kubernetes', 'React', 'HTML']","['AI/ML', 'Software Engineering', 'Mathematics']",44.0
+198,"['Kubernetes', 'Python', 'TensorFlow', 'Data Analysis']",Data Science,"['Docker', 'HTML', 'Kubernetes', 'Java', 'CSS']",['Mechanical Engineering'],14.0
+199,"['Spring Boot', 'CSS', 'HTML']",Software Engineering,"['React', 'Kubernetes', 'AWS']",['Software Engineering'],30.0
+200,"['AWS', 'CSS']",Mathematics,"['Machine Learning', 'Docker', 'Data Analysis', 'TensorFlow', 'Java', 'React']","['Data Science', 'Mechanical Engineering', 'AI/ML']",0.0
